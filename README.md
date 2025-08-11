@@ -1,5 +1,4 @@
 My personal space to practice Java programming in [GitHub Codespaces](https://github.com/features/codespaces) using VS Code in the cloud.  
-No local setup needed — just open, code, and run.
 
 ---
 
@@ -10,6 +9,7 @@ No local setup needed — just open, code, and run.
    - Wait for your dev environment to load in the browser.
 
 2. **Check Java Installation**
-   ```bash
+   
+```bash
    java -version
    javac -version
