@@ -1,0 +1,10 @@
+{
+  "name": "Java Dev",
+  "image": "mcr.microsoft.com/devcontainers/java:17",
+  "extensions": ["vscjava.vscode-java-pack"],
+  "_mycomment": "this installs Java compiler + Maven/Gradle + IntelliSense"
+}
+
+
+
+
